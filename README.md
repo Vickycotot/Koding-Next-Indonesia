@@ -15,6 +15,9 @@ This is a basic portfolio webpage created as part of **Task 1** for Koding Next 
 ## Preview
 Here’s a glimpse of the portfolio design:
 
+live Demo:
+https://vickycotot.github.io/koding-next-indonesia
+
 ![Portfolio Screenshot](https://via.placeholder.com/600x300)
 
 ## How to Use
