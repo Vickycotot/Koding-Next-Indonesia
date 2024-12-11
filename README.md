@@ -19,8 +19,3 @@ live Demo:
 https://vickycotot.github.io/koding-next-indonesia
 
 ![Portfolio Screenshot](https://via.placeholder.com/600x300)
-
-## How to Use
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/your-username/simple-portfolio.git
