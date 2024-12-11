@@ -8,7 +8,7 @@ Here’s a glimpse of the portfolio design:
 live Demo:
 https://vickycotot.github.io/Koding-Next-Indonesia
 
-![Portfolio Screenshot](https://via.placeholder.com/600x300)
+![Portfolio Screenshot](https://vickycotot.github.io/Koding-Next-Indonesia/Screenshot_20241211_201500.png)
 
 
 ## Features
